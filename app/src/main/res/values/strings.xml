@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Art Space App</string>
+    <string name="gabs">Peter Gabriel Sompotan</string>
+    <string name="gabs_nim">210211060245</string>
 </resources>
